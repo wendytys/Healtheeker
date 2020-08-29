@@ -1,0 +1,605 @@
+# Translation of Themes - SpicePress in Chinese (China)
+# This file is distributed under the same license as the Themes - SpicePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-13 06:56:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - SpicePress\n"
+
+#. Description of the theme
+msgid "SpicePress is a responsive and fully customizable business template. It is a perfect solution for creative and corporate websites, restaurants, wedding planners, law firms, finance, consulting, travel, photography, recipes, design, sport/medical shops, startups, online agencies, portfolios, E-commerce (WooCommerce), and freelancers. The advanced admin panel will enable you to personalize SpicePress without any technical information. SpicePress is translation ready and supports popular plugins like WPML, Polylang, WooCommerce and Contact Form 7. Check out also SpicePress PRO, the premium version, which has a lot more to offer."
+msgstr "SpicePress 是一个响应和完全可定制的业务模板。这是一个完美的解决方案，为创意和企业站点，餐馆，婚礼规划师，律师事务所，金融，咨询，旅游，摄影，食谱，设计，体育/医疗商店，初创公司，在线机构，作品集，电子商务（WooCommerce），和自由职业者。高级管理面板将使您能够在不需要任何技术信息的情况下个性化 SpicePress。SpicePress 是翻译准备，并支持流行的插件，如 WPML，Polylang，WooCoommerce 和 Contact Form 7。如有兴趣，可以检查有更多的提供的，高级版本的，SpicePress PRO。"
+
+#. Theme Name of the theme
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "SpicePress"
+msgstr "SpicePress"
+
+#: functions/customizer/customizer_general_settings.php:247
+msgid "Disable animation effect in desktop"
+msgstr "在左面屏幕上禁用动画效果"
+
+#: functions/customizer/customizer_general_settings.php:235
+msgid "Animation Settings"
+msgstr "动画设置"
+
+#. Template Name of the theme
+msgid "Contact page"
+msgstr "联系页面"
+
+#. Template Name of the theme
+msgid "About Us"
+msgstr "关于我们"
+
+#: functions/widgets/sidebars.php:61 functions/widgets/sidebars.php:63
+msgid "Contact template sidebar"
+msgstr "联系模板边栏"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:100
+#: functions/customizer/customizer_bredcrumbs_settings.php:106
+#: functions/template-tags.php:119
+msgid "Shop"
+msgstr "店铺"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:85
+#: functions/customizer/customizer_bredcrumbs_settings.php:91
+#: functions/template-tags.php:143
+msgid "404"
+msgstr "404"
+
+#: searchform.php:3 functions/customizer/customizer_bredcrumbs_settings.php:77
+msgid "Search"
+msgstr "搜索"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:48
+msgid "Author"
+msgstr "作者"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:28
+#: functions/customizer/customizer_bredcrumbs_settings.php:34
+#: functions/template-tags.php:101
+msgid "Category"
+msgstr "分类目录"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:14
+#: functions/customizer/customizer_bredcrumbs_settings.php:20
+#: functions/template-tags.php:83
+msgid "Archive"
+msgstr "存档"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:5
+msgid "Archive page title"
+msgstr "归档页面标题"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "全宽页面"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "业务模板"
+
+#: searchform.php:2
+msgid "Search here"
+msgstr "搜索"
+
+#: search.php:30
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: search.php:29
+msgid "Nothing found"
+msgstr "未找到"
+
+#: header/header-navbar.php:27 header/header-navbar.php:38
+#: header/header-navbar.php:69 header/header-navbar.php:116
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: functions.php:113
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:67
+msgid "Page"
+msgstr "页"
+
+#: functions/widgets/sidebars.php:50 functions/widgets/sidebars.php:52
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce边栏区或"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "页脚小工具右区"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "页脚小工具中心区"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "页脚小工具左区"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "边栏小工具区"
+
+#: functions/template-tags.php:177
+msgid "next page"
+msgstr "下一页"
+
+#: functions/template-tags.php:177
+msgid "previous page"
+msgstr "上一页"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:71
+#: functions/template-tags.php:133
+msgid "Search results for"
+msgstr "搜索结果："
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:42
+#: functions/template-tags.php:107
+msgid "All posts by"
+msgstr "作者："
+
+#: functions/template-tags.php:89 functions/template-tags.php:93
+#: functions/template-tags.php:97 functions/template-tags.php:103
+#: functions/template-tags.php:109 functions/template-tags.php:115
+#: functions/template-tags.php:121 functions/template-tags.php:137
+#: functions/template-tags.php:147
+msgid "%1$s %2$s"
+msgstr "%1$s%2$s"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:56
+#: functions/customizer/customizer_bredcrumbs_settings.php:62
+#: functions/template-tags.php:36 functions/template-tags.php:113
+msgid "Tag"
+msgstr "标签"
+
+#: functions/template-tags.php:32
+msgid "in"
+msgstr "在"
+
+#: functions/template-tags.php:26
+msgid "By"
+msgstr "作者"
+
+#: admin/inc/class-spicethemes-about-page.php:114
+msgid "View Theme Info"
+msgstr "查看主题信息"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Premium Theme Details"
+msgstr "高级主题详情"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Premium Theme Support"
+msgstr "高级主题支持"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Your feedback is valuable to us"
+msgstr "您的反馈对我们是有价值的。"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "PRO Demo"
+msgstr "PRO演示"
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Lite Demo"
+msgstr "展示Lite版本"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Useful Links"
+msgstr "有用的链接"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "SpicePress theme"
+msgstr "SpicePress主题"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "Go to the Customizer"
+msgstr "前往定制器"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "为了充分利用这个主题已经提供的所有功能，安装并激活SpiceBox插件。去“定制”然后安装SpiceBox插件。"
+
+#: admin/tab-pages/getting-started.php:25
+#: admin/inc/class-spicethemes-about-page.php:307
+msgid "Getting Started"
+msgstr "开始设置"
+
+#: admin/tab-pages/getting-started.php:22
+msgid "You can use this theme for any type of activity. SpicePress is compatible with popular plugins like WPML and Polylang. To help you create an effective and impactful web presence, SpicePress has predefined versions of many pages: Contact, Services, Portfolios, About Us and Blog."
+msgstr "您可以使用此主题进行任何类型的活动。SpicePress与流行的插件像WPML和Polylang兼容。为了帮助您建立一个有效的和有影响力的站点，SpicePress里有很多预定义的页面模版：接触，服务，作品集，关于我们，和博客。"
+
+#: admin/tab-pages/getting-started.php:20
+msgid "This theme is ideal for creating corporate and business websites. The PRO version has tons of features: a homepage with many sections where you can feature unlimited sliders, portfolios, user reviews, latest news, services, calls to action and much more. Each section in the HomePage template is carefully designed to fit to all business requirements."
+msgstr "这个主题是创建企业和商业站点的理想选择。PRO版有很多功能：一个有许多部分的主页，您可以在其中功能无限幻灯器，作品集，用户评论，最新消息，服务，召唤和更多。主页模板中的每个部分都经过精心设计，以适应所有业务需求。"
+
+#: admin/tab-pages/getting-started.php:14
+msgid "About the SpicePress theme"
+msgstr "关于SpicePress主题"
+
+#: admin/tab-pages/free_vs_pro.php:153
+msgid "Get SpicePress PRO Now!"
+msgstr "现在获取ElitePress PRO版本！"
+
+#: admin/tab-pages/free_vs_pro.php:143
+msgid "Premium Support Forum"
+msgstr "高级主题支持"
+
+#: admin/tab-pages/free_vs_pro.php:130
+msgid "Wide layout & Boxed Layout"
+msgstr "广泛布局和盒装布局"
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "关于我们，服务，作品集，博客左跟右边栏，全宽度博客，全宽度页面，联系页面，还有更多页面模版。"
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid "Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], Latest News, Clients, Testimonials, Custom Widgets"
+msgstr "固定在顶部的页眉，幻灯[无限]，服务[无限]，作品集[无限]，最新新闻，客户，褒奖，自定义小工具"
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "SpicePress PRO"
+msgstr "SpicePress PRO"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "On WordPress.org Support Forum"
+msgstr "在WordPress支持论坛里"
+
+#: admin/tab-pages/free_vs_pro.php:96
+msgid "Wide Layout"
+msgstr "广泛布局"
+
+#: admin/tab-pages/free_vs_pro.php:95
+msgid "Business Template and Full-Width Template"
+msgstr "业务模板和全宽度页面模板"
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid "Slider [Static Image], Services [3 Services], Portfolio [3 Portfolio], Testimonial, Latest News"
+msgstr "幻灯[静态图像]，服务[限制3个服务]，作品集[限制3个作品集]，褒奖，最新消息"
+
+#: admin/tab-pages/free_vs_pro.php:70
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "在我们的支持论坛上获得即时24/7支持。"
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid "Support Forum"
+msgstr "支持论坛"
+
+#: admin/tab-pages/free_vs_pro.php:66
+msgid "You can use WPML to make your website multilingual."
+msgstr "您可以使用WPML而让您的站点多种语言。"
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "WPML Support"
+msgstr "支持WPML"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show user feedback on the Homepage."
+msgstr "在主页上显示用户反馈。"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Show all your services in a single place."
+msgstr "在一个地方展示您所有的服务。"
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Services Page"
+msgstr "服务页面"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr "在WordPress编辑器中添加团队成员和自定义内容。"
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "About Us Page"
+msgstr "关于我们页面"
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "用2列、3列或4列布局呈现您的项目/作品集集合。您还可以按类别显示项目/作品集。"
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Portfolio"
+msgstr "作品集"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "在您的站点上使用Google Maps显示您商店和商业的地点。"
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+msgstr "享受7种预设色彩方案，或在不添加任何代码的情况下创建自定义外皮。"
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Mulitple Color Schemes"
+msgstr "多色彩方案"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "此主题支持Contact Form 7插件。使用它来建立您的联系表格。"
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "联系标支持"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "响应布局。 适用于各种设备。"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "适用于移动端"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "SpicePress supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "SpicePress支持全宽度和盒装布局选项。要选择您的首选项（并在它们之间切换）到“外观”>“自定义”。"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "布局选项"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "SpicePress includes various page templates."
+msgstr "SpicePress包含各种页面模板。"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "页面模板支持"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "您会在首页找到很多区域。"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "首页区域"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "特色"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状态"
+
+#: functions/customizer-notify/spicepress-customizer-notify.php:111
+#: admin/inc/plugin-include-control.php:41
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr "激活中"
+
+#: functions/customizer/customizer_sections_settings.php:78
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "启用文章元值，如作者姓名、日期、评论等。"
+
+#: functions/customizer/customizer_sections_settings.php:60
+msgid "Description"
+msgstr "描述"
+
+#: functions/customizer/customizer_sections_settings.php:48
+msgid "Title"
+msgstr "标题"
+
+#: index-news.php:10 functions/customizer/customizer_sections_settings.php:43
+msgid "Latest News"
+msgstr "最新消息"
+
+#: functions/customizer/customizer_sections_settings.php:36
+msgid "OFF"
+msgstr "禁用"
+
+#: functions/customizer/customizer_sections_settings.php:35
+msgid "ON"
+msgstr "激活"
+
+#: functions/customizer/customizer_sections_settings.php:31
+msgid "Enable Home News section"
+msgstr "启用在主页消息部分"
+
+#: functions/customizer/customizer_sections_settings.php:22
+msgid "Latest News settings"
+msgstr "最新消息设置"
+
+#: functions/customizer/customizer_sections_settings.php:17
+msgid "Homepage section settings"
+msgstr "首页部分设置"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "停用"
+
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+#: admin/inc/class-spicethemes-about-page.php:429
+msgid "Activate"
+msgstr "启用"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "插件推荐"
+
+#: functions/customizer/customizer_recommended_plugin.php:16
+#: admin/inc/class-spicethemes-about-page.php:312
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: functions/customizer/customizer_general_settings.php:282
+msgid "Copyright text"
+msgstr "版权说明"
+
+#: functions/customizer/customizer_general_settings.php:267
+msgid "Footer copyright settings"
+msgstr "页脚版权设置"
+
+#: functions/customizer/customizer_general_settings.php:153
+msgid "General settings"
+msgstr "基本设置"
+
+#: functions/customizer/customizer-pro.php:19
+msgid "Upgrade to Pro"
+msgstr "升级成Pro版"
+
+#: functions/customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr "升级到Pro版本"
+
+#: functions/breadcrumbs/breadcrumbs.php:107
+msgid "Error 404"
+msgstr "404错误"
+
+#: functions/breadcrumbs/breadcrumbs.php:64
+msgid "d"
+msgstr "d日"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:69
+msgid "F"
+msgstr "F"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+msgid "m"
+msgstr "m月"
+
+#: functions/breadcrumbs/breadcrumbs.php:62
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:68
+#: functions/breadcrumbs/breadcrumbs.php:73
+msgid "Y"
+msgstr "Y年"
+
+#: functions/breadcrumbs/breadcrumbs.php:58
+msgid "Archive by category"
+msgstr "分类归档："
+
+#: index.php:37 functions/menu/default_menu_walker.php:23
+#: functions/breadcrumbs/breadcrumbs.php:52
+#: functions/breadcrumbs/breadcrumbs.php:55
+msgid "Home"
+msgstr "首页"
+
+#: index-news.php:60 content-page.php:24
+#: template/template-page-full-width.php:29 functions/template-tags.php:168
+#: content.php:34
+msgid "Read More"
+msgstr "阅读更多"
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: comments.php:95
+msgid "Send Message"
+msgstr "发送信息"
+
+#: comments.php:93
+msgid "Log out"
+msgstr "登出"
+
+#: comments.php:93
+msgid "Logout of this account"
+msgstr "登出这个帐号"
+
+#: comments.php:93
+msgid "Logged in as"
+msgstr "以以下身份登陆"
+
+#: comments.php:92
+msgid "Message"
+msgstr "信息"
+
+#: comments.php:80
+msgid "Email"
+msgstr "电子邮件"
+
+#: comments.php:79
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:67 comments.php:113
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:52
+msgid "% Comments"
+msgstr "%条评论"
+
+#: comments.php:52
+msgid "1 comment so far"
+msgstr "目前为止有一条评论"
+
+#: comments.php:52
+msgid "No comments so far"
+msgstr "目前为止没有评论"
+
+#: comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: comments.php:30
+msgid "Edit"
+msgstr "编辑"
+
+#: comments.php:27
+msgid "Posted on"
+msgstr "发布于"
+
+#: comments.php:18
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: 404.php:17
+msgid "Go Back"
+msgstr "返回"
+
+#: 404.php:16
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "非常抱歉，您正在找的页面不存在。"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:14
+msgid "Oops! Page not found"
+msgstr "出错了！未找到页面"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/spicepress-wordpress-theme/"
+msgstr "https://spicethemes.com/spicepress-wordpress-theme/"
