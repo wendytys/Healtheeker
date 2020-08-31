@@ -1,6 +1,19 @@
-# Healtheeker
+#Project title
+The IBS Healtheeker project is a website with WordPress. The project aims to help the single parents with IBS to get better life with low cost.
 
-Structure of IBS Healtheeker codebase
+#Motivation
+There is no website or application provides help for the IBS patient who is single parent. The existing advices are designed for all the IBS patients but not just for our audiences. The single parent have no time and money to concern on themselves but they are suffering IBS symptoms. This project is trying to help them get recommendations quickly and with a low cost.
+
+#Code style
+This project is developed in WordPress and used php as the main code style. The HTML, css and JavaScript can also be used.
+
+#Screenshots
+ The eating panda is the logo of both the development team and the project. This project hope every can have a healthy life like this panda.
+
+#Tech/framework used
+Built with EC2 instance and WordPress AMI,  using phpMyAdmin as database server.
+
+#Codebase structure
 The codebase of IBS Healtheeker consists of around 1000 files and directories. At the root directory, there are some initial bootstrap files, such as index.pxp, wp-config.php, wp-load.php, wp-setting.php. The remaining files are divided into three distinct directories: wp-admin, wp-content and wp-includes.
 Following is the top level of the codebase structure:
 ├── wp-admin
@@ -15,47 +28,5 @@ Following is the top level of the codebase structure:
 ├── wp-trackback.php
 └── ...
 
-1.	wp-content
-The wp-content directory consists of the IBS Healtheeker files, including themes, plugins, and uploads. Following is the structure in wp-content directory:
-├── languages
-├── plugins
-├── themes
-├── upgrade
-├── uploads
-└── index.php
-The languages folder holds the language files with all of the messages and labels can be used in the website. The plugins folder holds the plugin files. This project includes all the initial plugins and extra ones like popup-maker-wp, quiz-master-next and wpfront-scroll-top to support the functions. The themes folder holds all the downloaded themes and the relevant files. Uploads folder includes all the files for our project, especially the photos shown in the website.
-
-2.	wp-admin
-The wp-admin directory contains code to support the WordPress administration area. The main bootloader is wp-admin/admin.php. Other special files include admin-header.php, admin-footer.php and general POST handler admin-post.php. Following is the structure in wp-admin directory:
-├── css
-├── images
-├── includes
-├── js
-├── maint
-├── network
-├── user
-├── about.php
-├── admin.php
-├── admin-header.php
-├── admin-footer.php
-├── admin-post.php
-└── ...
-3.	wp-includes
-The wp-includes directory includes the primary core for WordPress and other third-party libraries to achieve the functions such as the customised JavaScript files and css files. Many of the primary files are loaded as the application is bootstrapped.
-Following is the structure of wp-includes directory:
-├── assets
-├── block-patterns
-├── css
-├── customize
-├── fonts
-├── ID3
-├── images
-├── js
-├── rest-api
-├── Text
-├── widgets
-├── admin-bar.php
-├── atomlib.php
-├── cache.php
-├── class-json.php
-└── ...
+#How to use?
+Please visit healtheeker.com in your web browser.
