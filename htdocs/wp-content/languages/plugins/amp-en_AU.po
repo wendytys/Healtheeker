@@ -1,0 +1,89 @@
+# Translation of Plugins - AMP - Stable (latest release) in English (Australia)
+# This file is distributed under the same license as the Plugins - AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-20 05:58:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - AMP - Stable (latest release)\n"
+
+#. translators: %s is sanitizer class
+#: includes/templates/class-amp-content-sanitizer.php:82
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Sanitiser (%s) class does not exist"
+
+#. translators: %s: list of tags.
+#: templates/meta-taxonomy.php:44
+msgid "Tags: %s"
+msgstr "Tags: %s"
+
+#. translators: %s: list of categories.
+#: templates/meta-taxonomy.php:27
+msgid "Categories: %s"
+msgstr "Categories: %s"
+
+#: templates/footer.php:24
+msgid "Back to top"
+msgstr "Back to top"
+
+#: includes/settings/class-amp-customizer-design-settings.php:312
+msgid "Dark"
+msgstr "Dark"
+
+#: includes/settings/class-amp-customizer-design-settings.php:311
+msgid "Light"
+msgstr "Light"
+
+#: includes/settings/class-amp-customizer-design-settings.php:179
+msgid "Color Scheme"
+msgstr "Colour Scheme"
+
+#: includes/settings/class-amp-customizer-design-settings.php:167
+msgid "Header Background & Link Color"
+msgstr "Header Background & Link Colour"
+
+#: includes/settings/class-amp-customizer-design-settings.php:153
+msgid "Header Text Color"
+msgstr "Header Text Colour"
+
+#: includes/settings/class-amp-customizer-design-settings.php:141
+msgid "Design"
+msgstr "Design"
+
+#: includes/templates/class-amp-post-template.php:323
+msgid "View Comments"
+msgstr "View Comments"
+
+#: includes/templates/class-amp-post-template.php:322
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#. translators: placeholder is URL to AMP project.
+#: includes/admin/class-amp-customizer.php:97
+msgid "<a href=\"%s\" target=\"_blank\">The AMP Project</a> is a Google-led initiative that dramatically improves loading speeds on phones and tablets. You can use the Customizer to preview changes to your AMP template before publishing them."
+msgstr "<a href=\"%s\" target=\"_blank\">The AMP Project</a> is a Google-led initiative that dramatically improves loading speeds on phones and tablets. You can use the Customiser to preview changes to your AMP template before publishing them."
+
+#. Plugin Name of the plugin
+#: includes/options/class-amp-options-menu.php:60
+#: includes/admin/functions.php:112 includes/admin/functions.php:113
+#: includes/admin/class-amp-customizer.php:95
+#: includes/admin/class-amp-admin-pointers.php:65
+#: includes/validation/class-amp-validation-manager.php:440
+#: includes/templates/amp-paired-browsing.php:27
+#: includes/amp-helper-functions.php:1610 src/Admin/SiteHealth.php:96
+#: src/Admin/SiteHealth.php:137 src/Admin/SiteHealth.php:210
+#: src/Admin/SiteHealth.php:277 src/Admin/SiteHealth.php:342
+#: src/Admin/SiteHealth.php:361
+msgid "AMP"
+msgstr "AMP"
+
+#: templates/meta-taxonomy.php:21 templates/meta-taxonomy.php:35
+#: back-compat/templates-v0-3/meta-taxonomy.php:8
+#: back-compat/templates-v0-3/meta-taxonomy.php:17
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
