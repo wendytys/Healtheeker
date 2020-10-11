@@ -1,0 +1,74 @@
+# Translation of Plugins - Simple Custom CSS - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Simple Custom CSS - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-22 21:19:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Simple Custom CSS - Development (trunk)\n"
+
+#: includes/admin.php:176
+msgid "The styles you save here will remain even if you switch themes."
+msgstr "即使您切换主题，在此保存的样式仍将保留。"
+
+#: includes/customizer.php:34
+msgid "Simple Custom CSS allows you to add your own styles that will remain even if you change your theme."
+msgstr "Simple Custom CSS使用简单，您可以添加自己的样式，即使您更改主题也可以保留。"
+
+#. translators: Placeholder represents the URL to the Customizer Section.
+#: includes/admin.php:185
+msgid "Did you know that you can preview your CSS live in <a href=\"%s\" title=\"Simple Custom CSS in the Customizer\">the Customizer</a>?"
+msgstr "您是否知道可以在<a href=\"%s\" title=\"Simple Custom CSS in the Customizer\"> Customizer</a>中实时预览CSS？"
+
+#: includes/admin.php:46
+msgid "Add CSS"
+msgstr "添加CSS"
+
+#: includes/admin.php:158
+msgid "/* Enter Your Custom CSS Here */"
+msgstr "/* 在此处输入您的自定义CSS */"
+
+#. Author URI of the plugin
+msgid "http://johnregan3.me"
+msgstr "http://johnregan3.me"
+
+#. Plugin URI of the plugin
+msgid "http://johnregan3.github.io/simple-custom-css"
+msgstr "http://johnregan3.github.io/simple-custom-css"
+
+#. Author of the plugin
+msgid "John Regan, Danny Van Kooten"
+msgstr "John Regan, Danny Van Kooten"
+
+#: includes/admin.php:179 includes/admin.php:203
+msgid "Update Custom CSS"
+msgstr "更新自定义CSS"
+
+#: includes/admin.php:178
+msgid "To use, enter your custom CSS, then click \"Update Custom CSS\".  It's that simple!"
+msgstr "要使用，请输入您的自定义CSS，然后单击“更新自定义CSS”。 就这么简单！"
+
+#. Description of the plugin
+msgid "The simple, solid way to add custom CSS to your WordPress website. Simple Custom CSS allows you to add your own styles or override the default CSS of a plugin or theme."
+msgstr "将自定义CSS添加到WordPress网站的简单，可靠的方法。  Simple Custom CSS允许您添加自己的样式或覆盖插件或主题的默认CSS。"
+
+#: includes/admin.php:175
+msgid "Simple Custom CSS allows you to add your own styles or override the default CSS of a plugin or theme."
+msgstr "Simple Custom CSS 允许您添加自己的样式或覆盖插件或主题的默认CSS。"
+
+#. Plugin Name of the plugin
+#: includes/customizer.php:32 includes/admin.php:133 includes/admin.php:166
+msgid "Simple Custom CSS"
+msgstr "Simple Custom CSS"
+
+#: includes/admin.php:162
+msgid "Custom CSS updated successfully."
+msgstr "自定义CSS已成功更新。"
+
+#: includes/admin.php:133
+msgid "Custom CSS"
+msgstr "自定义CSS"

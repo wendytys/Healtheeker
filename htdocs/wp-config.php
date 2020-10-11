@@ -26,7 +26,7 @@ define( 'DB_NAME', 'bitnami_wordpress' );
 define( 'DB_USER', 'bn_wordpress' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'fe8d5e8aa7' );
+define( 'DB_PASSWORD', 'a41dae318e' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost:3306' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define('AUTH_KEY', 'ff467bb26f5abf00f60f8d44d089493a5ba74bf87c2832a09f96d93ac5f18522');
-define('SECURE_AUTH_KEY', '744689d9f653f2fb607cff8c3aac096499709784dad30f76613aafe6258eb068');
-define('LOGGED_IN_KEY', '799c8c2aa5ad71d43f087a0fa8588ae5f6143466a79866959624ea03bd3bcec1');
-define('NONCE_KEY', 'b9e18272c5a5a60f751e4430cf8cba23f24acf4025f5c73a19061b956c2ed89a');
-define('AUTH_SALT', '1127073cea0c090f1bbde9ca35645f51774a2174e064850cedd4981322101d65');
-define('SECURE_AUTH_SALT', 'ce142593c3874ec225165248041b4a1c5d6f9d06e843dd5a3d053911598489be');
-define('LOGGED_IN_SALT', '3300b403e11371057af2501d49e08e20d416c7cd67ec6100c717d14698fd29ed');
-define('NONCE_SALT', '63b0a9113ab30897ada55de3bb91a6c4d29424105fb544d391357271e84b9c77');
+define('AUTH_KEY', '2e3d344cbcf9aef19ca6eea6c88a0aa83307a42667fe33817b860a7aa2ac2709');
+define('SECURE_AUTH_KEY', '9328bce36e3134e0bf38d8a8796db8001d153d255f3df1584dd925129324bec6');
+define('LOGGED_IN_KEY', 'f45a019d245ec3733c25f8bf0ed70209b783e9a9b127dc9911fa8888aac4046a');
+define('NONCE_KEY', 'f0196ece8693959fb2863dfb6bf66787ae43e10bd26a133937b2118fb4757257');
+define('AUTH_SALT', 'e26bc04a220abd6eb9db5bf8f10340059b1efea56992cfddb55c9e765c9749c6');
+define('SECURE_AUTH_SALT', '4564702d3973e06df34b6a694d9e0c5a2e823245a83ac00030443c4199e096ee');
+define('LOGGED_IN_SALT', '7f0a41665807248cef1901b1052fc81e67c4a3fe2f09860b669a2195c92ac773');
+define('NONCE_SALT', '6be6f83963b1d975949929ab491e0ecaf9c83adb5cdfd8785f3df4b7fe64f99b');
 
 /**#@-*/
 
@@ -86,8 +86,8 @@ define('FS_METHOD', 'direct');
 /**
  * The WP_SITEURL and WP_HOME options are configured to access from any hostname or IP address.
  * If you want to access only from an specific domain, you can modify them. For example:
- *  define('WP_HOME','https://example.com');
- *  define('WP_SITEURL','https://example.com');
+ *  define('WP_HOME','http://example.com');
+ *  define('WP_SITEURL','http://example.com');
  *
 */
 
@@ -95,8 +95,8 @@ if ( defined( 'WP_CLI' ) ) {
     $_SERVER['HTTP_HOST'] = 'localhost';
 }
 
-define('WP_SITEURL','https://' . $_SERVER['HTTP_HOST'] . '/');
-define('WP_HOME','https://' . $_SERVER['HTTP_HOST'] . '/');
+define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] . '/');
+define('WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] . '/');
 
 
 /** Absolute path to the WordPress directory. */
